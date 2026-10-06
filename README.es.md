@@ -11,7 +11,7 @@
 
 <p align="left">
   <a href="https://enmanuel-leon.com"><img src="https://img.shields.io/badge/Sitio_Web-18181b?style=flat&logo=google-chrome&logoColor=white" alt="Sitio Web" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/enmanuel-leon-48b11714b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/enmanuel-leon/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:contact@enmanuel-leon.com"><img src="https://img.shields.io/badge/Correo-18181b?style=flat&logo=maildotru&logoColor=white" alt="Correo" /></a>&nbsp;
   <a href="https://github.com/enmanuel-leon"><img src="https://img.shields.io/badge/GitHub-18181b?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
   <a href="https://enmanuel-leon.com/export/Enmanuel_Leon_CV_ES.pdf"><img src="https://img.shields.io/badge/Currículum%20PDF-E11D48?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Currículum PDF" /></a>
