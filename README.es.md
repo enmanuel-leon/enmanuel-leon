@@ -44,7 +44,7 @@ Sistemas distribuidos · Arquitectura orientada a eventos · Procesamiento asín
 - **Lenguajes:** TypeScript, JavaScript, Python
 - **Backend & Arquitectura:** Node.js, Fastify, Express, FastAPI, microservicios, sistemas distribuidos, arquitectura orientada a eventos (EDA), REST/GraphQL/SOAP, OpenAPI/Swagger, idempotencia y resiliencia, ingeniería de plataforma, circuit breakers, rate limiting
 - **IA Agéntica:** Sistemas agénticos, orquestación multiagente, tool calling, SDLC asistido por agentes, RAG, APIs de OpenAI & Anthropic, comunicación M2M
-- **Cloud:** AWS (ECS, Lambda, SQS, S3, RDS), GCP (Cloud Run), Docker, Docker Compose, CI/CD, Linux, NGINX, aislamiento de VPC, despliegue sin downtime
+- **Cloud:** AWS (ECS, Lambda, SQS, S3, RDS), GCP (Cloud Run), Docker, Docker Compose, Kubernetes, CI/CD, Linux, NGINX, aislamiento de VPC, despliegue sin downtime
 - **Datos:** PostgreSQL, MySQL, MongoDB, Redis, BullMQ, AWS SQS, Row-Level Security (RLS), Prisma ORM, Dead-Letter Queues (DLQ)
 - **Frontend:** React, Next.js, React Native, Vite, Tailwind CSS
 - **Observabilidad & Calidad:** Datadog, Sentry, CloudWatch, Vitest, Jest, TDD, Zod
@@ -58,6 +58,7 @@ Sistemas distribuidos · Arquitectura orientada a eventos · Procesamiento asín
   <img src="https://img.shields.io/badge/AWS-1F2937?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />&nbsp;
   <img src="https://img.shields.io/badge/GCP-1F2937?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="GCP" />&nbsp;
   <img src="https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />&nbsp;
+  <img src="https://img.shields.io/badge/Kubernetes-1F2937?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />&nbsp;
   <img src="https://img.shields.io/badge/Redis-1F2937?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
 </p>
@@ -65,7 +66,7 @@ Sistemas distribuidos · Arquitectura orientada a eventos · Procesamiento asín
 ## Experiencia
 
 **Entropy Systems** · Full Stack Developer (AI & Core Systems) · Barcelona, España (Remoto) · Abr 2024 – Presente  
-*Motor de reportes distribuido, core agéntico, M2M seguro y pipelines de eventos.*
+*Motor de reportes distribuido, core agéntico, M2M seguro y servicios sobre Kubernetes.*
 
 **Fintech Scale-up confidencial · Plataforma de Crédito (NDA)** · Ingeniero de Software & Mobile (Consultor Part-time) · Remoto · Jul 2025 – Jul 2026  
 *App de originación crediticia multiplataforma en React Native y TypeScript, con RLS y persistencia offline.*

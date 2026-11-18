@@ -44,7 +44,7 @@ Distributed systems · Event-driven architecture · Asynchronous processing · I
 - **Languages:** TypeScript, JavaScript, Python
 - **Backend & Architecture:** Node.js, Fastify, Express, FastAPI, microservices, distributed systems, event-driven architecture (EDA), REST/GraphQL/SOAP, OpenAPI/Swagger, idempotency & resilience, platform engineering, circuit breakers, rate limiting
 - **Agentic AI:** Agentic systems, multi-agent orchestration, tool calling, agent-assisted SDLC, RAG, OpenAI & Anthropic APIs, M2M communication
-- **Cloud:** AWS (ECS, Lambda, SQS, S3, RDS), GCP (Cloud Run), Docker, Docker Compose, CI/CD, Linux, NGINX, VPC isolation, zero-downtime deployment
+- **Cloud:** AWS (ECS, Lambda, SQS, S3, RDS), GCP (Cloud Run), Docker, Docker Compose, Kubernetes, CI/CD, Linux, NGINX, VPC isolation, zero-downtime deployment
 - **Data:** PostgreSQL, MySQL, MongoDB, Redis, BullMQ, AWS SQS, Row-Level Security (RLS), Prisma ORM, dead-letter queues (DLQ)
 - **Frontend:** React, Next.js, React Native, Vite, Tailwind CSS
 - **Observability & Quality:** Datadog, Sentry, CloudWatch, Vitest, Jest, TDD, Zod
@@ -58,6 +58,7 @@ Distributed systems · Event-driven architecture · Asynchronous processing · I
   <img src="https://img.shields.io/badge/AWS-1F2937?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />&nbsp;
   <img src="https://img.shields.io/badge/GCP-1F2937?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="GCP" />&nbsp;
   <img src="https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />&nbsp;
+  <img src="https://img.shields.io/badge/Kubernetes-1F2937?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />&nbsp;
   <img src="https://img.shields.io/badge/Redis-1F2937?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
 </p>
@@ -65,7 +66,7 @@ Distributed systems · Event-driven architecture · Asynchronous processing · I
 ## Experience
 
 **Entropy Systems** · Full Stack Developer (AI & Core Systems) · Barcelona, Spain (Remote) · Apr 2024 – Present  
-*Distributed report engine, agentic core, secure M2M, and event pipelines.*
+*Distributed report engine, agentic core, secure M2M, and Kubernetes-backed services.*
 
 **Confidential Fintech Scale-up · Credit Platform (NDA)** · Software & Mobile Engineer (Part-time Consultant) · Remote · Jul 2025 – Jul 2026  
 *Cross-platform credit origination app in React Native and TypeScript, with RLS and offline persistence.*
