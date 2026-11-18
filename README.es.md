@@ -3,9 +3,18 @@
 **Software Engineer · Sistemas Distribuidos y Agénticos**  
 TypeScript · Python · AWS/GCP
 
-Valencia, Venezuela · Ciudadano UE (Italiano), autorizado para trabajar en la UE sin patrocinio · Remoto CET/EST  
-Idiomas: Español (nativo) · Inglés (profesional)  
-[Sitio web](https://enmanuel-leon.com/es/) · [LinkedIn](https://www.linkedin.com/in/enmanuel-leon/) · [GitHub](https://github.com/enmanuel-leon) · [CV (PDF)](https://enmanuel-leon.com/export/Enmanuel_Leon_CV_ES.pdf)
+**Ubicación:** Valencia, Venezuela · **Autorización laboral:** Ciudadano UE (Italiano), autorizado para trabajar en la UE sin patrocinio · **Remoto:** CET/EST  
+**Idiomas:** Español (nativo) · Inglés (profesional)
+
+<p>
+  <a href="https://enmanuel-leon.com/es/"><img src="https://img.shields.io/badge/Sitio_web-1F2937?style=flat-square&logo=googlechrome&logoColor=38BDF8" alt="Sitio web" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/enmanuel-leon/"><img src="https://img.shields.io/badge/LinkedIn-1F2937?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:contact@enmanuel-leon.com"><img src="https://img.shields.io/badge/Email-1F2937?style=flat-square&logo=maildotru&logoColor=F87171" alt="Email" /></a>&nbsp;
+  <a href="https://github.com/enmanuel-leon"><img src="https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+  <a href="https://enmanuel-leon.com/export/Enmanuel_Leon_CV_ES.pdf"><img src="https://img.shields.io/badge/CV_PDF-1F2937?style=flat-square&logo=adobeacrobatreader&logoColor=F87171" alt="CV PDF" /></a>
+</p>
+
+[![English](https://img.shields.io/badge/English-1F2937?style=flat-square&logo=googletranslate&logoColor=white)](./README.md)
 
 ---
 
@@ -40,6 +49,19 @@ Sistemas distribuidos · Arquitectura orientada a eventos · Procesamiento asín
 - **Frontend:** React, Next.js, React Native, Vite, Tailwind CSS
 - **Observabilidad & Calidad:** Datadog, Sentry, CloudWatch, Vitest, Jest, TDD, Zod
 
+### Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />&nbsp;
+  <img src="https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />&nbsp;
+  <img src="https://img.shields.io/badge/AWS-1F2937?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />&nbsp;
+  <img src="https://img.shields.io/badge/GCP-1F2937?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="GCP" />&nbsp;
+  <img src="https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />&nbsp;
+  <img src="https://img.shields.io/badge/Redis-1F2937?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
+</p>
+
 ## Experiencia
 
 **Entropy Systems** · Full Stack Developer (AI & Core Systems) · Barcelona, España (Remoto) · Abr 2024 – Presente  
@@ -61,6 +83,16 @@ Sistemas distribuidos · Arquitectura orientada a eventos · Procesamiento asín
 
 ---
 
-**Para consultoría, conversaciones técnicas o un saludo rápido:** [contact@enmanuel-leon.com](mailto:contact@enmanuel-leon.com) · [CV (ES)](https://enmanuel-leon.com/export/Enmanuel_Leon_CV_ES.pdf) · [Resume (EN)](https://enmanuel-leon.com/export/Enmanuel_Leon_Resume_EN.pdf)
+## Contacto
+
+Disponible para consultoría, conversaciones técnicas y roles remotos en CET/EST.
+
+| Canal | Detalle |
+| --- | --- |
+| **Email** | [contact@enmanuel-leon.com](mailto:contact@enmanuel-leon.com) |
+| **LinkedIn** | [linkedin.com/in/enmanuel-leon](https://www.linkedin.com/in/enmanuel-leon/) |
+| **GitHub** | [github.com/enmanuel-leon](https://github.com/enmanuel-leon) |
+| **Sitio web** | [enmanuel-leon.com/es](https://enmanuel-leon.com/es/) |
+| **CV / Resume** | [CV ES (PDF)](https://enmanuel-leon.com/export/Enmanuel_Leon_CV_ES.pdf) · [Resume EN (PDF)](https://enmanuel-leon.com/export/Enmanuel_Leon_Resume_EN.pdf) |
 
 [English version](./README.md)
