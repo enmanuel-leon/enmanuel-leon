@@ -4,7 +4,7 @@
 TypeScript · Python · AWS/GCP
 
 **Location:** Valencia, Venezuela · **Remote:** CET/EST  
-**Work authorization:** EU citizen (Italian), authorized to work in the EU without sponsorship  
+**Citizenship:** Italian (EU) — authorized to work in the EU without sponsorship  
 **Languages:** Spanish (native) · English (professional)
 
 <p>
@@ -66,7 +66,7 @@ Distributed systems · Event-driven architecture · Asynchronous processing · I
 ## Experience
 
 **Entropy Systems** · Full Stack Developer (AI & Core Systems) · Barcelona, Spain (Remote) · Apr 2024 – Present  
-*Distributed report engine, agentic core, secure M2M, and Kubernetes-backed services.*
+*Distributed report engine, agentic core, secure M2M, and services running on Kubernetes.*
 
 **Confidential Fintech Scale-up · Credit Platform (NDA)** · Software & Mobile Engineer (Part-time Consultant) · Remote · Jul 2025 – Jul 2026  
 *Cross-platform credit origination app in React Native and TypeScript, with RLS and offline persistence.*
