@@ -7,16 +7,22 @@ EU citizen (Italian) · Remote CET/EST · [Website](https://enmanuel-leon.com/) 
 
 ---
 
-I build the distributed systems and async engines behind money movement, AI tooling, and high-availability platforms. 6+ years across fintech, applied AI, and enterprise platforms.
+I build the distributed systems and async engines behind money movement, AI tooling, and high-availability platforms. 6+ years across fintech, applied AI, and enterprise platforms, with a focus on backend and platform engineering.
 
-## Selected impact
+**Focus:** Backend Engineering · Platform Engineering · Distributed Systems · AI Infrastructure
 
-| Metric | Outcome |
+## Engineering focus
+
+| Area | What I build |
 | --- | --- |
-| **65%** | Faster regulatory report generation — 2,000+ documents/month |
-| **<50ms** | M2M latency — across isolated VPCs |
-| **500k+** | Monthly payment transactions at 99.9% uptime |
-| **10k+** | Daily events processed across isolated VPCs |
+| **Async** | Queue-based report engines with BullMQ, Redis, idempotent workers, and observable job processing |
+| **M2M** | Token-authenticated APIs between isolated VPCs for agentic tool distribution |
+| **Payments** | Idempotency, circuit breakers, rate limiting, and SQS dead-letter queues |
+| **Events** | Distributed workers with consistency guarantees, observability, and no public endpoints |
+
+## Core competencies
+
+Distributed systems · Event-driven architecture · Asynchronous processing · Idempotency & resilience · Agentic AI orchestration · Cloud-native operations
 
 ## Currently
 
@@ -25,10 +31,10 @@ I build the distributed systems and async engines behind money movement, AI tool
 ## Core stack
 
 - **Languages:** TypeScript, JavaScript, Python
-- **Backend:** Node.js, Fastify, Express, FastAPI, microservices, event-driven architecture, REST/GraphQL
+- **Backend & Architecture:** Node.js, Fastify, Express, FastAPI, microservices, distributed systems, event-driven architecture (EDA), REST/GraphQL, idempotency & resilience, platform engineering, circuit breakers, rate limiting
 - **Agentic AI:** Multi-agent orchestration, tool calling, RAG, OpenAI & Anthropic APIs, M2M communication
-- **Cloud:** AWS (ECS, Lambda, SQS, S3, RDS), GCP (Cloud Run), Docker, CI/CD
-- **Data:** PostgreSQL, MySQL, MongoDB, Redis, BullMQ, AWS SQS, Row-Level Security (RLS)
+- **Cloud:** AWS (ECS, Lambda, SQS, S3, RDS), GCP (Cloud Run), Docker, CI/CD, VPC isolation, zero-downtime deployment
+- **Data:** PostgreSQL, MySQL, MongoDB, Redis, BullMQ, AWS SQS, Row-Level Security (RLS), dead-letter queues (DLQ)
 - **Frontend:** React, Next.js, React Native
 
 ## Experience

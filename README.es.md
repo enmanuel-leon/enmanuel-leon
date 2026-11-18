@@ -7,16 +7,22 @@ Ciudadano UE (Italiano) · Remoto CET/EST · [Sitio web](https://enmanuel-leon.c
 
 ---
 
-Construyo los sistemas distribuidos y los motores asíncronos detrás del movimiento de dinero, las herramientas de IA y las plataformas de alta disponibilidad. Más de 6 años en fintech, IA aplicada y plataformas empresariales.
+Construyo los sistemas distribuidos y los motores asíncronos detrás del movimiento de dinero, las herramientas de IA y las plataformas de alta disponibilidad. Más de 6 años en fintech, IA aplicada y plataformas empresariales, con foco en ingeniería backend y de plataforma.
 
-## Impacto seleccionado
+**Foco:** Ingeniería Backend · Ingeniería de Plataforma · Sistemas Distribuidos · Infraestructura de IA
 
-| Métrica | Resultado |
+## Foco de ingeniería
+
+| Área | Qué construyo |
 | --- | --- |
-| **65%** | Menos tiempo de generación de reportes — más de 2.000 documentos/mes |
-| **<50ms** | Latencia M2M — entre VPCs aisladas |
-| **500k+** | Transacciones mensuales con 99,9% de uptime |
-| **10k+** | Eventos diarios procesados entre VPCs aisladas |
+| **Async** | Motores de reportes por colas con BullMQ, Redis, workers idempotentes y procesamiento observable |
+| **M2M** | APIs autenticadas por tokens entre VPCs aisladas para distribución de herramientas agénticas |
+| **Pagos** | Idempotencia, circuit breakers, rate limiting y colas SQS con DLQ |
+| **Eventos** | Workers distribuidos con garantías de consistencia, observabilidad y sin endpoints públicos |
+
+## Competencias clave
+
+Sistemas distribuidos · Arquitectura orientada a eventos · Procesamiento asíncrono · Idempotencia y resiliencia · Orquestación de IA agéntica · Operación cloud-native
 
 ## Actualmente
 
@@ -25,10 +31,10 @@ Construyo los sistemas distribuidos y los motores asíncronos detrás del movimi
 ## Stack principal
 
 - **Lenguajes:** TypeScript, JavaScript, Python
-- **Backend:** Node.js, Fastify, Express, FastAPI, microservicios, arquitectura orientada a eventos, REST/GraphQL
+- **Backend & Arquitectura:** Node.js, Fastify, Express, FastAPI, microservicios, sistemas distribuidos, arquitectura orientada a eventos (EDA), REST/GraphQL, idempotencia y resiliencia, ingeniería de plataforma, circuit breakers, rate limiting
 - **IA Agéntica:** Orquestación multiagente, tool calling, RAG, APIs de OpenAI & Anthropic, comunicación M2M
-- **Cloud:** AWS (ECS, Lambda, SQS, S3, RDS), GCP (Cloud Run), Docker, CI/CD
-- **Datos:** PostgreSQL, MySQL, MongoDB, Redis, BullMQ, AWS SQS, Row-Level Security (RLS)
+- **Cloud:** AWS (ECS, Lambda, SQS, S3, RDS), GCP (Cloud Run), Docker, CI/CD, aislamiento de VPC, despliegue sin downtime
+- **Datos:** PostgreSQL, MySQL, MongoDB, Redis, BullMQ, AWS SQS, Row-Level Security (RLS), dead-letter queues (DLQ)
 - **Frontend:** React, Next.js, React Native
 
 ## Experiencia
