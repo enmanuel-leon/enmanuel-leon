@@ -3,7 +3,8 @@
 **Software Engineer · Distributed & Agentic Systems**  
 TypeScript · Python · AWS/GCP
 
-**Location:** Valencia, Venezuela · **Work authorization:** EU citizen (Italian), authorized to work in the EU without sponsorship · **Remote:** CET/EST  
+**Location:** Valencia, Venezuela · **Remote:** CET/EST  
+**Work authorization:** EU citizen (Italian), authorized to work in the EU without sponsorship  
 **Languages:** Spanish (native) · English (professional)
 
 <p>
@@ -11,10 +12,9 @@ TypeScript · Python · AWS/GCP
   <a href="https://www.linkedin.com/in/enmanuel-leon/"><img src="https://img.shields.io/badge/LinkedIn-1F2937?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:contact@enmanuel-leon.com"><img src="https://img.shields.io/badge/Email-1F2937?style=flat-square&logo=maildotru&logoColor=F87171" alt="Email" /></a>&nbsp;
   <a href="https://github.com/enmanuel-leon"><img src="https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
-  <a href="https://enmanuel-leon.com/export/Enmanuel_Leon_Resume_EN.pdf"><img src="https://img.shields.io/badge/Resume_PDF-1F2937?style=flat-square&logo=adobeacrobatreader&logoColor=F87171" alt="Resume PDF" /></a>
+  <a href="https://enmanuel-leon.com/export/Enmanuel_Leon_Resume_EN.pdf"><img src="https://img.shields.io/badge/Resume_PDF-1F2937?style=flat-square&logo=adobeacrobatreader&logoColor=F87171" alt="Resume PDF" /></a>&nbsp;
+  <a href="./README.es.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-1F2937?style=flat-square&logo=googletranslate&logoColor=white" alt="Español" /></a>
 </p>
-
-[![Español](https://img.shields.io/badge/Espa%C3%B1ol-1F2937?style=flat-square&logo=googletranslate&logoColor=white)](./README.es.md)
 
 ---
 

@@ -3,7 +3,8 @@
 **Software Engineer · Sistemas Distribuidos y Agénticos**  
 TypeScript · Python · AWS/GCP
 
-**Ubicación:** Valencia, Venezuela · **Autorización laboral:** Ciudadano UE (Italiano), autorizado para trabajar en la UE sin patrocinio · **Remoto:** CET/EST  
+**Ubicación:** Valencia, Venezuela · **Remoto:** CET/EST  
+**Autorización laboral:** Ciudadano UE (Italiano), autorizado para trabajar en la UE sin patrocinio  
 **Idiomas:** Español (nativo) · Inglés (profesional)
 
 <p>
@@ -11,10 +12,9 @@ TypeScript · Python · AWS/GCP
   <a href="https://www.linkedin.com/in/enmanuel-leon/"><img src="https://img.shields.io/badge/LinkedIn-1F2937?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:contact@enmanuel-leon.com"><img src="https://img.shields.io/badge/Email-1F2937?style=flat-square&logo=maildotru&logoColor=F87171" alt="Email" /></a>&nbsp;
   <a href="https://github.com/enmanuel-leon"><img src="https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
-  <a href="https://enmanuel-leon.com/export/Enmanuel_Leon_CV_ES.pdf"><img src="https://img.shields.io/badge/CV_PDF-1F2937?style=flat-square&logo=adobeacrobatreader&logoColor=F87171" alt="CV PDF" /></a>
+  <a href="https://enmanuel-leon.com/export/Enmanuel_Leon_CV_ES.pdf"><img src="https://img.shields.io/badge/CV_PDF-1F2937?style=flat-square&logo=adobeacrobatreader&logoColor=F87171" alt="CV PDF" /></a>&nbsp;
+  <a href="./README.md"><img src="https://img.shields.io/badge/English-1F2937?style=flat-square&logo=googletranslate&logoColor=white" alt="English" /></a>
 </p>
-
-[![English](https://img.shields.io/badge/English-1F2937?style=flat-square&logo=googletranslate&logoColor=white)](./README.md)
 
 ---
 
